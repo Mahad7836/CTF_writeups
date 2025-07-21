@@ -34,17 +34,17 @@ After making the necessary fixes, I compiled the code again using AI and tested 
 
 The program compiled successfully, and the logic worked as expected.
 
-Once the program compiled successfully and provided the correct output, I retrieved the flag and submitted it in the format picoCTF{.}.
+Once the program compiled successfully and provided the correct output, flag was displayed.
 
 Result:
-The flag was revealed successfully after addressing all compilation errors. The flag was submitted in the format: picoCTF{.}.
+The flag was revealed successfully after addressing all compilation errors. 
 
 What I Learned:
 
-I learned about common Rust errors, such as missing semicolons, unused arguments, and undefined variables, and how to interpret the helpful compiler messages.
+Learned about common Rust errors, such as missing semicolons, unused arguments, and undefined variables, and how to interpret the helpful compiler messages.
 
-I got a better understanding of how the println! macro works in Rust, especially the need for proper formatting specifiers to print variables.
+Got a better understanding of how the println! macro works in Rust, especially the need for proper formatting specifiers to print variables.
 
-I became more familiar with how variables are scoped in Rust and how to return values correctly from functions.
+Became more familiar with how variables are scoped in Rust and how to return values correctly from functions.
 
 The challenge demonstrated how detailed Rust’s compiler error messages are and how they guide you in fixing issues quickly and efficiently.
